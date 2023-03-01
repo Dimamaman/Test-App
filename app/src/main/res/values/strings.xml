@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="my_test">My Test</string>
+    <string name="info">Info</string>
+    <string name="question_review">Question Review</string>
+    <string name="test">Tawday eken ol zan ́ ́gardın ́ ju ́rekleri, Qos nayza ́ga qumar eken bilekleri, Bala ma ́gan juwırdı attan tu ́sip, Sawash eken qudaydan tilekleri. \n\nQosıq qatarları qaysı d ́astannan h ́am qaysı qaharman ́ga qarata aytılg ́an?</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="continue_button">Continue</string>
+    <string name="new_game">New Game</string>
+    <string name="challenge">Info</string>
+    <string name="exit">Exit</string>
+    <string name="skip_count">Skip Answer:</string>
+    <string name="correct_count">Correct Answer:</string>
+    <string name="wrong_count">Wrong Answer:</string>
+    <string name="test_finish">Test Finish</string>
+
+    <string name="app_info"> Qaraqalpaqstan Respublikasında jasawshı qaraqalpaq xalqınıń ana tili.
+        Qaraqalpaq tili — Qaraqalpaqstan Respublikasınıń qorǵawında bolıp, bul haqqında arnawlı nızam shıǵarılǵan.
+        Nızamda qaraqalpaq tili Qaraqalpaqstan Respublikasınıń pútkil aymaǵında mámleketlik til retinde qollanılıwına huqıq tiykarları belgilengen.
+        Qaraqalpaq tiline mámleketlik til biyliginiń beriliwi respublikanıń aymaǵında jasawshı milletlerdiń hám xalıqlardıń óz ana tilin qollanıwda olardıń konstituciyalıq huqıqların sheklemeydi.
+        Bul nızam jeke adamlardın arasındaǵı qarım-qatnasıqlardıń, áskeriy bólimlerde, diniy hám dástúriy úrp-ádetlerdi belgilewde tillerdiń qollanılıwın qatań bir tártipke salıp taslamaydı.
+        Qaraqalpaq tili — Qaraqalpaqstandaǵı qaraqalpaqlar sóylesetuǵın turkiy til. Arqa-shıǵıs qaraqalpaq hám qubla-shıǵıs qaraqalpaq dialektlerine bólinedi. Ol noǵay, qazaq hám ózbek tilleri menen birge ósip, úsh tildiń de tásiri astında ósken.
+        Tipologiyalıq jaqtan, qaraqalpaq tili túrkiy tillerdiń qıpshaq bólimine tiyisli bolıp, noǵay jáne qazaq tili menen bekkem baylanıslı hám óz-ara túsinikli.
+        Qaraqalpaq tili Qaraqalpaqstan Tolıq huqıqlı Respublikasında rásmiy mártebege iye. 1989-jılı 1-dekabrde Qaraqalpaqstan Respublikası Joqarǵı Keńesiniń sessiyasında qaraqalpaq tiline mámleketlik til biyligi berildi.
+        Qaraqalpaqstan Respublikasınıń mámleketlik til haqqındaǵı Nızamınıń 1-statyasında: „Qaraqalpaq tili Qaraqalpaqstan Respublikasınıń mámleketlik tili bolıp tabıladı. Qaraqalpaqstan Respublikası óziniń aymaǵında tilge baylanıslı barlıq máselelerdi sheshiw huqıqına iye‟,— dep kórsetilgen.
+        Bul jaǵday til erkinligin, tillerdiń aldaǵı waqıtları keń rawajlanıwın támiyinleydi.
+    </string>
+    <string name="duris_juwap">Duris Juwap</string>
+</resources>
